@@ -9,16 +9,16 @@ Your code runs into a syntax error because of line 26, meaning you mispelled you
 
 Scores: 
 
-Completeness: 2/4
-Efficiency: 3/4
-Style: 4/4
-Documentation: 4/4
+Completeness: 2/4  
+Efficiency: 3/4  
+Style: 4/4  
+Documentation: 4/4  
 
-Postive aspects:
+##### Postive aspects:
 
 Your code it is well structured and documented. Good Job.
 
-Aspect of the program that could be improved:
+##### Aspect of the program that could be improved:
 
 While your code is well structured, you should always make sure that it runs and follow good practice.
 
