@@ -1,3 +1,7 @@
+## How to run the NumberToWords.java program
+
+The program can be run on any IDE that has jdk by simply importing the file to the environment.
+
 
 #### The space complexity of the program:
 	
